@@ -18,7 +18,7 @@ This jupyter notebook was made to analyze the data from Brazilian elections cong
 
 2. If you want to proceed with the traditional way, here is the steps to get everything installed:
     - Installing requirements -> check the **``requirements folder``** to install all dependencies;
-    - Explore the jupyter notebook inside **``src folder``** -> *brazilian-election-basedosdados-pts*.
+    - Explore the jupyter notebook inside **``src folder``** -> *brazilian-election-basedosdados-pt.ipynb*.
 
 ### Here are some ideas to contribute if you want (and also my TO DO list for this project):
  - [ ] **English** -> Translate analysis to English;
