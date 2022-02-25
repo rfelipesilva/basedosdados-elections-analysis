@@ -25,6 +25,5 @@ This jupyter notebook was made to analyze the data from Brazilian elections cong
 	- English version: ``src/brazilian-election-basedosdados-en.ipynb``
 
 ### Here are some ideas to contribute if you want (and also my TO DO list for this project):
- - [*] **English** -> Translate analysis to English;
  - [ ] **Interactive app** -> Migrate analysis to a web app using Streamlit;
  - [ ] **Elaborate advanced visualization** -> Elaborate advanced visualization with a BI tool as Power BI, Tableau and similars.
